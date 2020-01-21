@@ -1,0 +1,1 @@
+# Prosty robot gąsienicowy z czujnikeim ultradźwiękowym obracanym na serwomechaniźmie, aby robot mógł się zorientowac jak daleko ma do przeszkody. Po wykryciu przeszkody stara się ją ominąć. Moduł arduino uno.
